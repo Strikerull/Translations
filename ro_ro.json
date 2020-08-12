@@ -30,7 +30,7 @@
   "lacImportFailed": "A aparut o problema pe parcursul importari, va rugam sa verificati consola!",
   "sessionContinue": "Se continua ultima sesiune de autentificare de acum %sec% secunde.",
   "messageLogin": "Te rog sa te conectezi folosind /login <parola>",
-  "messageRegister": "Te rog sa te inregistrezi folosind /register <parola>",
+  "messageRegister": "Te rog sa te inregistrezi folosind /register <parola> <parola>",
   "errorRefreshProfile": "Contul tau a fost modificat de o terta parte. Te rog sa reintri pe server!",
   "errorNotRegistered": "Utilizatorul nu este inregistrat!",
   "kickAlreadyOnline": "Acest jucator este deja conectat!",
